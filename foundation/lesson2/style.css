@@ -1,18 +1,21 @@
 .odd {
     background-color: pink;
-    font-size:24;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
-}
-.two {
-    color: blue;
-    font-size: 50px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.three {
+.oddish{
+    font-size:24
+}
+#two {
+    color: blue;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#four {
     background-color: lightgreen;
     font-weight: bold;
     font-size: 36px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
