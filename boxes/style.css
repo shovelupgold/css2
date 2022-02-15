@@ -1,0 +1,30 @@
+.one {
+    padding:30px;
+    
+    background-color:pink;
+    border: solid;
+    border-color: blue;
+    margin: 15px;
+    margin-left: 100px;
+    margin-right:200px;
+}
+
+.two{
+    box-sizing: border-box;
+    background-color: skyblue;
+    border: solid;
+    border-color: purple;
+    margin-left: 90px;
+    margin-right: 180px;
+    margin-bottom: 50px;
+
+}
+.three{
+    background-color: sandybrown;
+    border:solid;
+    border-color: brown;
+    padding: 30px;
+    margin-left: 500px;
+    margin-right: 180px;
+
+}
