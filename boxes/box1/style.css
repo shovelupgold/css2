@@ -26,5 +26,18 @@
     padding: 30px;
     margin-left: 500px;
     margin-right: 180px;
+}
+
+.box1 {
+    background-color: yellow;
+    width:100px;
+    height:100px;
+
+}
+
+.box2 {
+    background-color: black;
+    width:50px;
+    height:100px;
 
 }

@@ -1,0 +1,43 @@
+body {
+    max-width:auto;
+    max-height: 400px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    background-color: skyblue;
+    margin:8px;
+    
+
+}
+
+.card{
+    
+    font-size:16px;
+    font-weight:bold;
+    padding: 8px;
+    
+
+}
+
+.content {
+    text-align:center;
+    padding-top: 16px;
+    padding-bottom: 16px;    
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.button {
+    text-align:center;
+    padding:8px;
+}
+
+button {
+    display: block;  
+    margin: 0 auto;
+    padding-left:24px;
+    padding-right:24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
