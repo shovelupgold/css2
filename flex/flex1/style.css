@@ -1,0 +1,24 @@
+.mainbox {
+    
+    width: 400px;
+    height:400px;
+    border: solid navy 5px;
+    background: rgb(56, 145, 248);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.centerbox {
+font-weight: bold;
+text-align: center;
+width: 20%;
+height: 20%;
+display:flex;
+border: solid maroon 5px;
+background: palevioletred;
+flex-direction: column;
+
+}
