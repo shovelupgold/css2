@@ -1,0 +1,53 @@
+.header{
+    display: flex;
+    background-color:papayawhip;
+    font-family: monospace;
+    justify-content: space-between;
+    align-items:center ;
+    padding: 5px;
+    
+}
+
+.leftlist {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+
+}
+
+.rightlist {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    
+}
+
+
+li {
+    background: white;
+    color: blue;
+    font-size: 22px;
+    padding: 8px;
+    text-align: center;
+    width:75px;
+    margin: 5px;
+
+
+}
+
+
+.logo {
+    display:flex;
+    background-color: white;
+    color: red;
+    font-size:48px;
+    font-weight:900;
+
+    padding: 4px 32px;
+}
+
+    
+
+}
